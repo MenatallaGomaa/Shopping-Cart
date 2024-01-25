@@ -2,19 +2,19 @@
     {
       "id": 1,
       "name": "Book",
-      "price": 10.99,
+      "price": 7.50,
       "imgUrl": "/public/book.jpg"
     },
     {
       "id": 2,
       "name": "Computer",
-      "price": 1199,
+      "price": 850,
       "imgUrl": "/public/computer.jpg"
     },
     {
       "id": 3,
       "name": "Banana",
-      "price": 1.05,
+      "price": 1.89,
       "imgUrl": "/public/banana.jpg"
     },
     {
@@ -22,5 +22,17 @@
       "name": "Car",
       "price": 14000,
       "imgUrl": "/public/car.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Afro set",
+      "price": 75.99,
+      "imgUrl": "/public/afro set.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Bohemian Dress",
+      "price": 120,
+      "imgUrl": "/public/Bohemian Dress.jpg"
     }
   ]
