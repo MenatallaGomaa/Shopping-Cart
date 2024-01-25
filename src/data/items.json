@@ -25,14 +25,20 @@
     },
     {
       "id": 5,
-      "name": "Afro set",
-      "price": 75.99,
-      "imgUrl": "/public/afro set.jpg"
+      "name": "Egyptian Wedding Dress",
+      "price": 2000,
+      "imgUrl": "/public/Egyptian Dress.jpg"
     },
     {
       "id": 6,
       "name": "Bohemian Dress",
       "price": 120,
       "imgUrl": "/public/Bohemian Dress.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Afro set",
+      "price": 75.99,
+      "imgUrl": "/public/afro set.jpg"
     }
   ]
