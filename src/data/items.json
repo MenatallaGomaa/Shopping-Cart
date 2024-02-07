@@ -1,44 +1,45 @@
 [
-    {
-      "id": 1,
-      "name": "Book",
-      "price": 7.50,
-      "imgUrl": "public/imgs/book.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Computer",
-      "price": 850,
-      "imgUrl": "public/imgs/computer.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Banana",
-      "price": 1.89,
-      "imgUrl": "public/imgs/banana.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Car",
-      "price": 14000,
-      "imgUrl": "public/imgs/car.jpg"
-    },
-    {
-      "id": 5,
-      "name": "Egyptian Wedding Dress",
-      "price": 2000,
-      "imgUrl": "public/imgs/Egyptian Dress.jpg"
-    },
-    {
-      "id": 6,
-      "name": "Bohemian Dress",
-      "price": 120,
-      "imgUrl": "public/imgs/Bohemian Dress.jpg"
-    },
-    {
-      "id": 7,
-      "name": "Afro set",
-      "price": 75.99,
-      "imgUrl": "public/imgs/afro set.jpg"
-    }
-  ]
+      {
+        "id": 1,
+        "name": "Book",
+        "price": 7.50,
+        "imgUrl": "public/imgs/book.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Computer",
+        "price": 850,
+        "imgUrl": "public/imgs/computer.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Banana",
+        "price": 1.89,
+        "imgUrl": "public/imgs/banana.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Car",
+        "price": 14000,
+        "imgUrl": "public/imgs/car.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Egyptian Wedding Dress",
+        "price": 2000,
+        "imgUrl": "public/imgs/Egyptian Dress.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Bohemian Dress",
+        "price": 120,
+        "imgUrl": "public/imgs/Bohemian Dress.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Afro set",
+        "price": 75.99,
+        "imgUrl": "public/imgs/afro set.jpg"
+      }
+    ]
+    
