@@ -3,42 +3,42 @@
       "id": 1,
       "name": "Book",
       "price": 7.50,
-      "imgUrl": "assets/book.jpg"
+      "imgUrl": "src/assets/book.jpg"
     },
     {
       "id": 2,
       "name": "Computer",
       "price": 850,
-      "imgUrl": "assets/computer.jpg"
+      "imgUrl": "src/assets/computer.jpg"
     },
     {
       "id": 3,
       "name": "Banana",
       "price": 1.89,
-      "imgUrl": "assets/banana.jpg"
+      "imgUrl": "src/assets/banana.jpg"
     },
     {
       "id": 4,
       "name": "Car",
       "price": 14000,
-      "imgUrl": "assets/car.jpg"
+      "imgUrl": "src/assets/car.jpg"
     },
     {
       "id": 5,
       "name": "Egyptian Wedding Dress",
       "price": 2000,
-      "imgUrl": "assets/Egyptian Dress.jpg"
+      "imgUrl": "src/assets/Egyptian Dress.jpg"
     },
     {
       "id": 6,
       "name": "Bohemian Dress",
       "price": 120,
-      "imgUrl": "assets/Bohemian Dress.jpg"
+      "imgUrl": "src/assets/Bohemian Dress.jpg"
     },
     {
       "id": 7,
       "name": "Afro set",
       "price": 75.99,
-      "imgUrl": "assets/afro set.jpg"
+      "imgUrl": "src/assets/afro set.jpg"
     }
   ]

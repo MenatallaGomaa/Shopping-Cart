@@ -9,5 +9,3 @@ Welcome to All-in-One Bazar, where shopping meets simplicity. Discover the conve
 - npm run dev
 
 # DEMO:
-
-https://idyllic-sherbet-f7c7c6.netlify.app/
